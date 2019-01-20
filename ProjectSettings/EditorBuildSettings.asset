@@ -12,6 +12,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 5a4a8c4e0fd1bb743ac509a37eaad286
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/VideoOynaticisi.unity
     guid: 0b0fd6d02ee6942448aa8689cf83c3be
   m_configObjects: {}
