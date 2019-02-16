@@ -5,30 +5,21 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Interactive360/Scenes/StartingScenes/MainMenu_GVR_Controller.unity
-    guid: b4c82c5414966664691272c799085740
-  - enabled: 0
-    path: Assets/Interactive360/Scenes/StartingScenes/MainMenu_Editor.unity
-    guid: c3cd6ef7e0af4dc4bb6d8f29ae740d2f
-  - enabled: 0
-    path: Assets/Interactive360/Scenes/StartingScenes/Hotspot Example_Gaze.unity
-    guid: 76f033583a6d93f4ba8bde174f0b4425
-  - enabled: 0
-    path: Assets/Interactive360/Scenes/StartingScenes/MainMenu_Controller.unity
-    guid: e965b968d7e3c3d4995f3e70a8eb0770
+  - enabled: 1
+    path: "Assets/Scenes/Hareket Men\xFCs\xFC.unity"
+    guid: 40e5c3686ac1b83409bf594c1da52b93
+  - enabled: 1
+    path: Assets/Scenes/Video - 1.unity
+    guid: 061d3a10808dadd438026efe047e7189
+  - enabled: 1
+    path: Assets/Scenes/Video - 2.unity
+    guid: 680e419b847a0824a8c97b46a3ee293a
+  - enabled: 1
+    path: Assets/Scenes/Video - 3.unity
+    guid: 1955736cf50da3a4d82aea592d6037e2
   - enabled: 1
     path: Assets/Interactive360/Scenes/StartingScenes/MainMenu_Gaze.unity
     guid: 17a32e1d456c45e4a8e0247641907cbf
-  - enabled: 0
-    path: Assets/Interactive360/Scenes/StartingScenes/MainMenu_1.unity
-    guid: 4f5b79cc108493e46aa1eef14b3480fc
-  - enabled: 0
-    path: Assets/Interactive360/Scenes/StartingScenes/MainMenu_2.unity
-    guid: d409055c7fd7236428c972f99e9ca02a
-  - enabled: 0
-    path: Assets/Interactive360/Scenes/StartingScenes/MainMenu_3.unity
-    guid: 3bc14da52ca9d4748bbaaf2050d65355
   - enabled: 1
     path: Assets/Interactive360/Scenes/VideoScenes/3D_Waterfront.unity
     guid: 274063104ecb85740bface7c8858821e
