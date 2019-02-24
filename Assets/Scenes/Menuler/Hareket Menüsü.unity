@@ -517,7 +517,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 3
+          m_IntArgument: 4
           m_FloatArgument: 0
           m_StringArgument: 1
           m_BoolArgument: 0
@@ -643,7 +643,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "G\xF6\u011F\xFCs Hareketleri"
+  m_Text: 'Arka Kol Hareketleri
+
+'
 --- !u!222 &1241702010
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1080,7 +1082,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "S\u0131rt Hareketleri"
+  m_Text: 'On Kol Hareketleri
+
+'
 --- !u!222 &1863757834
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1159,7 +1163,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Omuz Hareketleri
+  m_Text: Kanat Hareketleri
 --- !u!222 &1972066979
 CanvasRenderer:
   m_ObjectHideFlags: 0
