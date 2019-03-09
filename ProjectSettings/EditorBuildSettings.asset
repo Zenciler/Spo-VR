@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/gvrClickSMenu.unity
     guid: f40c9c5dad064df4bbe177305a419952
   - enabled: 0
-    path: "Assets/Scenes/Ana Men\xFC.unity"
+    path: 
     guid: 55bf9677185fc154ebadcfef7b0e9d5e
   - enabled: 1
     path: "Assets/Scenes/Hareket Men\xFCs\xFC.unity"
@@ -62,4 +62,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Kanat/Kanat3.unity
     guid: d6adf8b1bec2299479a7d857c797fff1
+  - enabled: 1
+    path: Assets/Scenes/OnKol/OnKol5.unity
+    guid: cafa2e8b4909b05428b16c42534ac1f9
   m_configObjects: {}
