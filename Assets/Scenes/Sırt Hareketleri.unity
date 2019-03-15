@@ -381,7 +381,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c90ffabe90afca449609da99ae48ef8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCricle: {fileID: 0}
+  imgCricle: {fileID: 4803499}
   GVRclick:
     m_PersistentCalls:
       m_Calls:
@@ -843,7 +843,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c90ffabe90afca449609da99ae48ef8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCricle: {fileID: 0}
+  imgCricle: {fileID: 4803499}
   GVRclick:
     m_PersistentCalls:
       m_Calls:
@@ -1292,7 +1292,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c90ffabe90afca449609da99ae48ef8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCricle: {fileID: 0}
+  imgCricle: {fileID: 4803499}
   GVRclick:
     m_PersistentCalls:
       m_Calls:
@@ -1663,7 +1663,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c90ffabe90afca449609da99ae48ef8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCricle: {fileID: 0}
+  imgCricle: {fileID: 4803499}
   GVRclick:
     m_PersistentCalls:
       m_Calls:
