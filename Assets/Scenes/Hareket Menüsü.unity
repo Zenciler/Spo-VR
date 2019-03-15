@@ -305,7 +305,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c90ffabe90afca449609da99ae48ef8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCricle: {fileID: 0}
+  imgCricle: {fileID: 2114470928}
   GVRclick:
     m_PersistentCalls:
       m_Calls:
@@ -517,7 +517,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c90ffabe90afca449609da99ae48ef8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCricle: {fileID: 0}
+  imgCricle: {fileID: 2114470928}
   GVRclick:
     m_PersistentCalls:
       m_Calls:
@@ -624,7 +624,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 761381335, guid: 463285ecd6702471a909ba810832bf0e, type: 3}
       propertyPath: m_Name
-      value: GvrEventSystem (1)
+      value: GvrEventSystem
       objectReference: {fileID: 0}
     - target: {fileID: 766346198, guid: 463285ecd6702471a909ba810832bf0e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1045,7 +1045,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c90ffabe90afca449609da99ae48ef8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCricle: {fileID: 0}
+  imgCricle: {fileID: 2114470928}
   GVRclick:
     m_PersistentCalls:
       m_Calls:
@@ -1312,7 +1312,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 177758, guid: 970dd4b9371394fb4890965f608d46fd, type: 3}
       propertyPath: m_Name
-      value: GvrEditorEmulator (1)
+      value: GvrEditorEmulator
       objectReference: {fileID: 0}
     - target: {fileID: 498412, guid: 970dd4b9371394fb4890965f608d46fd, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1474,7 +1474,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c90ffabe90afca449609da99ae48ef8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCricle: {fileID: 0}
+  imgCricle: {fileID: 2114470928}
   GVRclick:
     m_PersistentCalls:
       m_Calls:
@@ -1765,7 +1765,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c90ffabe90afca449609da99ae48ef8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCricle: {fileID: 0}
+  imgCricle: {fileID: 2114470928}
   GVRclick:
     m_PersistentCalls:
       m_Calls:
@@ -1977,7 +1977,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c90ffabe90afca449609da99ae48ef8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCricle: {fileID: 0}
+  imgCricle: {fileID: 2114470928}
   GVRclick:
     m_PersistentCalls:
       m_Calls:
@@ -1987,7 +1987,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 20
+          m_IntArgument: 4
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -2085,7 +2085,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1173061036}
   m_Layer: 0
-  m_Name: GameObject (1)
+  m_Name: GameObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2220,7 +2220,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c90ffabe90afca449609da99ae48ef8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCricle: {fileID: 0}
+  imgCricle: {fileID: 2114470928}
   GVRclick:
     m_PersistentCalls:
       m_Calls:
@@ -2511,7 +2511,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c90ffabe90afca449609da99ae48ef8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  imgCricle: {fileID: 0}
+  imgCricle: {fileID: 2114470928}
   GVRclick:
     m_PersistentCalls:
       m_Calls:
@@ -2521,7 +2521,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 25
+          m_IntArgument: 5
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -2780,7 +2780,7 @@ GameObject:
   - component: {fileID: 1803931665}
   - component: {fileID: 1803931664}
   m_Layer: 5
-  m_Name: Canvas (1)
+  m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2884,7 +2884,7 @@ GameObject:
   - component: {fileID: 1990513301}
   - component: {fileID: 1990513300}
   m_Layer: 0
-  m_Name: Directional Light (1)
+  m_Name: Directional Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
