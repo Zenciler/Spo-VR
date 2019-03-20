@@ -20,7 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Bacak Hareketleri.unity
     guid: 66707b5cd84a641468c3ec445d2c122f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Kanat Hareketleri.unity
     guid: e43ac5b0564311749bc95f094fe97711
   - enabled: 1
@@ -41,4 +41,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ArkaKol/ArkaKol3.unity
     guid: 685cc52934b122945967017cdbdae35c
+  - enabled: 1
+    path: "Assets/Scenes/S\u0131rt/S\u0131rt.unity"
+    guid: 4abc20b1d13e48146a2bfe5810fffe02
+  - enabled: 1
+    path: "Assets/Scenes/S\u0131rt/S\u0131rt 2.unity"
+    guid: a8311ad0e8465a44d984d360c1e5714a
+  - enabled: 1
+    path: "Assets/Scenes/S\u0131rt/S\u0131rt 3.unity"
+    guid: 93ff8032c2e28cc4ca5692327fc38ad3
   m_configObjects: {}
